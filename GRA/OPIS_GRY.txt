@@ -1,0 +1,14 @@
+Gra polega na przetrwaniu jak najdłużej oraz zdobyciu jak najwięcej punktów.
+
+STEROWANIE:
+W - poruszanie się do góry
+S - poruszanie się w dół
+A - poruszanie się w lewo
+D - poruszanie się w prawo
+
+Lewy przycisk myszy - oddawanie strzałów
+
+
+Ilość punktów jest przyznawana za zniszczenie asteroidy lub przeciwny statek. Dostaje się w zależności od wielkości. Przeciwne statki zabierają od 1 do 2 punktów zdrowia. 
+
+Gracz zaczyna grę z 5 punktami zdrowia i jest to jego maksymalna ilość. Gdy gracz straci wszystkie punkty zdrowia to przegrywa. Na mapie gracz może podnieść serduszka. Każde serduszko przywraca graczowi 1 serce. Gdy gracz posiada 5 serc nie jest wstanie podnieść kolejnego.
